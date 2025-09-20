@@ -1,0 +1,13 @@
+=== Texas Hold'em Monte Carlo Analysis Summary ===
+Timestamp,2025-09-20 06:15:33 UTC
+Total_Hands,1326
+Simulations_Per_Hand,3000
+Total_Simulations,3978000
+Execution_Time_Seconds,167.83
+Simulations_Per_Second,23703
+
+Average_Win_Rate,47.9836
+Best_Hand,AA(pair)
+Best_Hand_Win_Rate,86.0333
+Worst_Hand,32o
+Worst_Hand_Win_Rate,27.5667
